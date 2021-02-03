@@ -1,7 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Demo(https://vico-design.github.io/Quiz-react/)
 ## Available Scripts
 
 In the project directory, you can run:
