@@ -1,4 +1,4 @@
-# Demo(https://vico-design.github.io/Quiz-react/)
+# [Demo from the project](https://vico-design.github.io/Quiz-react/)
 ## Available Scripts
 
 In the project directory, you can run:
